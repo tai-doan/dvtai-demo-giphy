@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/dvtai_demo_giphy/static/css/main.5a3d1256.chunk.css",
+    "main.js": "/dvtai_demo_giphy/static/js/main.c0cdec76.chunk.js",
+    "main.js.map": "/dvtai_demo_giphy/static/js/main.c0cdec76.chunk.js.map",
+    "runtime-main.js": "/dvtai_demo_giphy/static/js/runtime-main.9039bd7e.js",
+    "runtime-main.js.map": "/dvtai_demo_giphy/static/js/runtime-main.9039bd7e.js.map",
+    "static/js/2.21ba91b3.chunk.js": "/dvtai_demo_giphy/static/js/2.21ba91b3.chunk.js",
+    "static/js/2.21ba91b3.chunk.js.map": "/dvtai_demo_giphy/static/js/2.21ba91b3.chunk.js.map",
+    "static/js/3.848718ac.chunk.js": "/dvtai_demo_giphy/static/js/3.848718ac.chunk.js",
+    "static/js/3.848718ac.chunk.js.map": "/dvtai_demo_giphy/static/js/3.848718ac.chunk.js.map",
+    "index.html": "/dvtai_demo_giphy/index.html",
+    "static/css/main.5a3d1256.chunk.css.map": "/dvtai_demo_giphy/static/css/main.5a3d1256.chunk.css.map",
+    "static/js/2.21ba91b3.chunk.js.LICENSE.txt": "/dvtai_demo_giphy/static/js/2.21ba91b3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9039bd7e.js",
+    "static/js/2.21ba91b3.chunk.js",
+    "static/css/main.5a3d1256.chunk.css",
+    "static/js/main.c0cdec76.chunk.js"
+  ]
+}
