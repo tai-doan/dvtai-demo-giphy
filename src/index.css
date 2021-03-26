@@ -11,3 +11,99 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.gif-item {
+  width: 22%;
+  float: left;
+  margin: 1%;
+  padding: 0.5%;
+  background-color: #dfdfdf;
+  border-radius: 5px;
+}
+
+.gif-image{
+  width: 100%;
+  height: 24vh;
+}
+
+h4.gif-title {
+  text-align: center;
+  color: #000;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 1;
+}
+
+.modal {
+  display: none;
+  position: fixed;
+  z-index: 1; 
+  left: 0;
+  top: 0;
+  width: 100vw;
+  height: 100vh;
+  overflow: auto;
+  background-color: rgba(0, 0, 0, 0.336);
+  background-color: rgba(0,0,0,0.4);
+}
+
+.modal-content {
+  background-color: #0000009c;
+  margin: auto;
+  border: 1px solid #888;
+  padding: 1% 5% 5%;
+  width: 89vw;
+  height: 90vh;
+}
+
+.image-preview {
+  width: 89vw;
+  height: 90vh;
+}
+
+.close {
+  color: #ffffff;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.button-loadmore {
+  padding-bottom: 20px;
+}
+
+.button-loadmore button {
+  background-color: rgb(59, 139, 230);
+  color: #fff;
+  border: none;
+  padding: 10px;
+}
+
+@media only screen and (max-width: 768px){
+  .gif-item {
+    width: 30%;
+  }
+  .gif-image {
+    height: 15vh;
+  }
+}
+
+@media only screen and (max-width: 480px){
+  .gif-item {
+    width: 47%;
+  }
+}
+
+@media only screen and (max-width: 320px){
+  .gif-item {
+    width: 97%;
+  }
+}
